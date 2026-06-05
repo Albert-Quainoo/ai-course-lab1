@@ -6,6 +6,8 @@
 
 **Student ID:** 47762028
 
+**Repository Form:** https://github.com/Albert-Quainoo/ai-course-lab0
+
 ## Description:
 This repository contains:
 - Two jupyter notebooks (one is the lab0 exercise, and the other is the colab practice)
