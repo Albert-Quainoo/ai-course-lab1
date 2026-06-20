@@ -6,6 +6,12 @@ dist/
 wheels/
 *.egg-info
 
+
 # Virtual environments
 .venv
 ai_env
+
+
+#Misc
+ai_labs/Ashesi-CS254-Introduction-To-Artificial-Intelligence-Supervised-Learning-Lab-Work/
+.DS_Store
